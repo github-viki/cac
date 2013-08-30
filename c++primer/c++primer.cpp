@@ -17,6 +17,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<a;
 	Sale_item b(1,"a","n");
 	cout<<b;
+	cout<<"haha"<<endl;
 	//cout<<Sale_item::test<<endl;
 	return 0;
 }
